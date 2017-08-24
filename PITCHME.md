@@ -61,7 +61,8 @@ https://www.supagro.fr/web/florac/pages/?idl=19&page=1194
 * prêt de matériel : vidéopro, caméra, enregistreur mp3, PC, webcam visio : on vise l'autonomie
 ---
 ## Leviers
-![6a00d8341d3df553ef0147e0e1aec2970b.jpg](https://github.com/helenelax/presentation/blob/master/6a00d8341d3df553ef0147e0e1aec2970b.jpg?raw=true)
+![https://ncloud.zaclys.com/index.php/s/acQg0pPsVwptDix/download](https://ncloud.zaclys.com/index.php/s/acQg0pPsVwptDix/download)
+
 
 ---
 
