@@ -14,3 +14,6 @@ Le fichier **PITCHME.yaml** permet de personnaliser la présentation. celui qui 
 Le fichier **PITCHME.css** permet de modifier le CSS par défaut. celui qui est sur la branche Mster permet de :
 * supprimer le cadre noir autoir des images
 
+### Adresse de présentation
+https://gitpitch.com/$user/$repo/$branch 
+https://gitpitch.com/helenelax/presentation/stageRS
