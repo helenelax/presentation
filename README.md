@@ -17,3 +17,11 @@ Le fichier **PITCHME.css** permet de modifier le CSS par défaut. celui qui est 
 ### Adresse de présentation
 https://gitpitch.com/$user/$repo/$branch   
 Exemple : https://gitpitch.com/helenelax/presentation/stage_RS
+
+### Mode présentateur
+* Il faut ajouter *Note:* sur les slides
+* Il faut presser sur S pour le lancer
+* **Il ne faut pas rafraichir la page du speaker !!**
+* Autoriser les pop-up
+* Options d'affichage
+* Modules complémentaires
