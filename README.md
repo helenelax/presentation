@@ -12,7 +12,7 @@ Le fichier **PITCHME.yaml** permet de personnaliser la présentation. celui qui 
 * d'écraser le CSS par défaut pour qu'il prenne en compte PITCHME.css
 
 Le fichier **PITCHME.css** permet de modifier le CSS par défaut. celui qui est sur la branche Mster permet de :
-* supprimer le cadre noir autoir des images
+* supprimer le cadre noir autour des images
 
 ### Adresse de présentation
 https://gitpitch.com/$user/$repo/$branch   
@@ -21,7 +21,8 @@ Exemple : https://gitpitch.com/helenelax/presentation/stage_RS
 ### Mode présentateur
 * Il faut ajouter *Note:* sur les slides
 * Il faut presser sur S pour le lancer
-* **Il ne faut pas rafraichir la page du speaker !!**
 * Autoriser les pop-up
+* Modules complémentaires : ils ne semblent pas poser de problème sauf que quand *Cookie utodelete* est désactivé, il ne semble plus y avoir de problème d'affichage en mode speaker (*Acces Expired*)
+* Si l'affichage de la diapo courante ou de la prochaine ne s'affiche pas correctement (*Access expired*), fermer la fenêtre et cliquer de nouveau sur S, plusieurs fois s'il le faut mais **Il ne faut pas rafraichir la page du speaker !!**
 * Options d'affichage
-* Modules complémentaires
+
