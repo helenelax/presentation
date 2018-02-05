@@ -15,7 +15,7 @@ Le fichier **PITCHME.css** permet de modifier le CSS par défaut. celui qui est 
 * supprimer le cadre noir autour des images
 
 * Ajout d'image
-Code :  ```![Le Rochefort](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=Affichage_GitPitch_Speaker.png&t=CtsMcCp9jN181LZ&scalingup=0)```
+```![Le Rochefort](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=Affichage_GitPitch_Speaker.png&t=CtsMcCp9jN181LZ&scalingup=0)```
 
 ### Adresse de présentation
 https://gitpitch.com/$user/$repo/$branch   
@@ -27,5 +27,8 @@ Exemple : https://gitpitch.com/helenelax/presentation/stage_RS
 * Autoriser les pop-up
 * Modules complémentaires : ils ne semblent pas poser de problème sauf que quand *Cookie utodelete* est désactivé, il ne semble plus y avoir de problème d'affichage en mode speaker (*Acces Expired*)
 * Si l'affichage de la diapo courante ou de la prochaine ne s'affiche pas correctement (*Access expired*), fermer la fenêtre et cliquer de nouveau sur S, plusieurs fois s'il le faut mais **Il ne faut pas rafraichir la page du speaker !!**
-* Options d'affichage
+* Options d'affichage   
+![Options d'affichage](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=Affichage_GitPitch_Speaker.png&t=CtsMcCp9jN181LZ&scalingup=0)
+Faire glisser sur le deuxième écran  
+Avoir une autre fenêtre de Firefox pour pouvoir faire de stucs sans que les gens voient
 
