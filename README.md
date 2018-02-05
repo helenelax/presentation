@@ -15,7 +15,7 @@ Le fichier **PITCHME.css** permet de modifier le CSS par défaut. celui qui est 
 * supprimer le cadre noir autour des images
 
 * Ajout d'image
-Code '''![Le Rochefort](https://ncloud.zaclys.com/index.php/s/Xuj5Y4ZkrEbC5mc/download)'''
+Code :  ```![Le Rochefort](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=Affichage_GitPitch_Speaker.png&t=CtsMcCp9jN181LZ&scalingup=0)```
 
 ### Adresse de présentation
 https://gitpitch.com/$user/$repo/$branch   
