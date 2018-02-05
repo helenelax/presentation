@@ -15,5 +15,5 @@ Le fichier **PITCHME.css** permet de modifier le CSS par défaut. celui qui est 
 * supprimer le cadre noir autoir des images
 
 ### Adresse de présentation
-https://gitpitch.com/$user/$repo/$branch 
-https://gitpitch.com/helenelax/presentation/stageRS
+https://gitpitch.com/$user/$repo/$branch   
+Exemple : https://gitpitch.com/helenelax/presentation/stage_RS
