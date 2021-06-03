@@ -1,7 +1,11 @@
 ---
-title: 
+title: Fake News et autres troubles de l'information
 lang: fr
+slideOptions:
+  transition: fade
+  theme: white
 dir: ltr
+breaks: true
 tags: stage, gitpitch, 2020
 ---
 
