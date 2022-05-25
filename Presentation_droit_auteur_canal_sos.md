@@ -35,12 +35,13 @@ span.petit {
 
 ---
 
-![](https://i.imgur.com/6Umyq7X.png =300x)
+![](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/avatar.png =300x)
 
 ### Hélène Laxenaire
-Juin 2021  
-![](https://i.imgur.com/pO8bFCv.png =300x)
+Mai 2022  
+![](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/Institut-Agro-Montpellier_RVB.png =300x)
 <span class="petit"> CC - BY-SA 4.0 
+Note: je me présente
 
 <!-- .slide: data-background="#FFFFFF" -->
 
@@ -87,6 +88,7 @@ Note: le mettre dans le chat
 ## Qu'est-ce que le droit d'auteur ?
 <span class="bleu">= droits de l'auteur d'une oeuvre originale de l'esprit</span>
 
+Note: différence avec le copyright des pays des *common laws* qui protège l'oeuvre (pas de droit moral par ex)
 <!-- .slide: data-background="#FFFFFF" -->
 
 ---
@@ -96,7 +98,7 @@ Note: le mettre dans le chat
 Note:  
 * terminées ou non
 * fixées sur un support ou non (diff. copyright, ex. chanson)
-* ne s'applique pas aux idées (ex. souris anthropomorphe)
+* ne s'applique pas aux idées (ex. souris anthropomorphe) ou aux concepts 
 * ne s'applique pas aux formules mathématiques
 * sur la diapo du dessous : euromouse
 
@@ -104,7 +106,7 @@ Note:
 
 ----
 
-![Euromaus](https://i.imgur.com/kdLj4JR.jpg)
+![Euromaus](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/euro-maus.jpg)
 
 <!-- .slide: data-background="#FFFFFF" -->
 
@@ -135,7 +137,7 @@ Note: personne ne peut rien faire sans l'autorisation de l'auteur
 
 ## Droit moral
 L'auteur 
-<!-- .slide: data-background="https://i.imgur.com/6G7PZqt.jpg"  data-background-repeat="repeat" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_droit_moral_6G7PZqt.jpg"  data-background-repeat="repeat" -->
 
 
 </div>
@@ -154,7 +156,7 @@ L'auteur
 Note:
 * divulgation : droit de 1ère présentation au public
 * retrait : doit supporter les frais le cas échéant
-<!-- .slide: data-background="https://i.imgur.com/6G7PZqt.jpg"  data-background-repeat="repeat" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_droit_moral_6G7PZqt.jpg"  data-background-repeat="repeat" -->
 </div>
 
 ---
@@ -167,7 +169,7 @@ Note:
 * perpétuel
 * incessible
 
-<!-- .slide: data-background="https://i.imgur.com/6G7PZqt.jpg"  data-background-repeat="repeat" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_droit_moral_6G7PZqt.jpg"  data-background-repeat="repeat" -->
 </div>
 
 ---
@@ -177,7 +179,7 @@ Note:
 ### Droit patrimonial
 L'usage et ... les revenus
 
-<!-- .slide: data-background="https://i.imgur.com/rzBpF1e.jpg" --> 
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_droit_patrimoniaux_rzBpF1e.jpg" --> 
 
 </div>
 
@@ -193,7 +195,7 @@ L'usage et ... les revenus
 Note: support numérique (scanner, télécharger) ou support physique
 mettre une image dans un diaporama participe de ce droit
 
-<!-- .slide: data-background="https://i.imgur.com/rzBpF1e.jpg" --> 
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_droit_patrimoniaux_rzBpF1e.jpg" --> 
 
 </div>
 
@@ -206,7 +208,7 @@ Les droits des interprètes
 
 Note: en France depuis 1985
 
-<!-- .slide: data-background="https://i.imgur.com/DP1UP7s.jpg" --> 
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_droit_voisin_DP1UP7s.jpg" --> 
 
 </div>
 
@@ -220,9 +222,9 @@ Note: en France depuis 1985
 * Courte citation
 * Exception pédagogique
 
-Note: ne pas passer la diapo suivante
+Note: ne pas passer la diapo en dessous
 
-<!-- .slide: data-background="https://i.imgur.com/byweVTU.png" --> 
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_exception_byweVTU.png" --> 
 </div>
 
 ----
@@ -237,17 +239,18 @@ Note: ne pas passer la diapo suivante
  * Handicap
  * Bibliothèques, musées, archives
 
-<!-- .slide: data-background="https://i.imgur.com/byweVTU.png" --> 
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_exception_byweVTU.png" --> 
 </div>
 
 ---
 
 ## Quiz
 
-### http://etc.ch/MgE8
-Si le lien n'est plus valable, créer un quiz avec les questions qui sont ici : [Mini-quizz droit d'auteur pour la présentation Canal SOS](/tUHMgPtQShCvYAzPMr5KbA)
-
-Note: N'ouvrir la fenêtre de résultat qu'une fois fini (et sondage stoppé -stop)
+### http://etc.ch/RacJ
+Note: 
+* Si le lien n'est plus valable, créer un quiz avec les questions qui sont ici : [Mini-quizz droit d'auteur pour la présentation Canal SOS](/tUHMgPtQShCvYAzPMr5KbA)
+* J'actionne le sondage depuis ici : https://directpoll.com/c?XDVhEtDHmHNr5AsgvAxCLt5tRa6X5R
+* OUvrir la fenêtre des résulats mais ne partager l'écran que quand tout le monde a voté sur la question https://directpoll.com/r?XDbzPBd3ixYqg8foRwwKFX2ls70Ln8XQ6WxOpMo
 <!-- .slide: data-background="#FFFFFF" -->
 
 ---
@@ -300,7 +303,7 @@ Note: peuvent être payantes (cas le plus courant)
 ---
 
 ## Les documents sous licences Creatives Commons
-![](https://i.imgur.com/fu5MDh8.png =100x)
+![](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/logo_cc.png =100x)
 
 Note: 2001
 Lawrence Lessig, Aaron Swartz
@@ -321,7 +324,7 @@ Lawrence Lessig, Aaron Swartz
 Note: dans certains pays il y a plus de licence CC
 Résumé de la licence : https://creativecommons.org/licenses/by/4.0/deed.fr
 
-<!-- .slide: data-background="https://i.imgur.com/aHH6k90.png"  data-background-repeat="repeat" data-background-size="300px" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/backgroundCC.png"  data-background-repeat="repeat" data-background-size="300px" -->
 </div>
 </div>
 
@@ -332,7 +335,7 @@ Résumé de la licence : https://creativecommons.org/licenses/by/4.0/deed.fr
 * Toutes les licences permettent la libre diffusion
 * Toutes les licences obligent à citer l'auteur
 
-<!-- .slide: data-background="https://i.imgur.com/aHH6k90.png"  data-background-repeat="repeat" data-background-size="300px" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/backgroundCC.png"  data-background-repeat="repeat" data-background-size="300px" -->
 </div>
 
 ---
@@ -347,7 +350,7 @@ Certaines licences obligent à :
 * mettre les documents modifiés sous la même licence que le document d'origine
 
 
-<!-- .slide: data-background="https://i.imgur.com/aHH6k90.png"  data-background-repeat="repeat" data-background-size="300px" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/backgroundCC.png"  data-background-repeat="repeat" data-background-size="300px" -->
 </div>
 
 ---
@@ -358,12 +361,12 @@ Certaines licences obligent à :
 
 Note: je vous les présente et ensuite petit exercice pour voir comment ils s'organisent en licence
 
-<!-- .slide: data-background="https://i.imgur.com/aHH6k90.png"  data-background-repeat="repeat" data-background-size="300px" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/backgroundCC.png"  data-background-repeat="repeat" data-background-size="300px" -->
 </div>
 
 ---
 
-![licence CC logo BY](https://i.imgur.com/BIt89X6.png "licence CC logo BY")  
+![licence CC logo BY](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/logo_cc_by.png "licence CC logo BY")  
 * qui est l'auteur (BY)  
 *attribution*   
 * droit moral
@@ -375,16 +378,16 @@ Je pose la question : pourquoi ?
 
 ---
 
-![licence CC logo ND](https://i.imgur.com/lo9Zuy0.png "licence CC logo ND")  
-* Pas de modification (ND)
+![licence CC logo ND](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/logo_cc_nd.png "licence CC logo ND")  
+* Pas de modification sans demander à l'auteur (ND)  
 *Non derivative*
 
 <!-- .slide: data-background="#FFFFFF" -->
 
 ---
 
-![licence CC logo NC](https://i.imgur.com/RuI09e9.png "licence CC logo NC")  
-* Pas d'utilisation commerciale (NC)
+![licence CC logo NC](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/logo_cc_nc.png "licence CC logo NC")  
+* Pas d'utilisation commerciale sans demander à l'auteur (NC)  
 *Non commercial* 
 Note: pas de différence lucratif/commercial
 
@@ -392,8 +395,8 @@ Note: pas de différence lucratif/commercial
 
 ---
 
-![licence CC logo SA](https://i.imgur.com/ZJf52sv.png "licence CC logo SA")  
-* Partage avec la même licence pour l'oeuvre modifiée (SA)
+![licence CC logo SA](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/logo_cc_sa.png "licence CC logo SA")  
+* Partage avec la même licence pour l'oeuvre modifiée (SA)  
 *Share alike*
 Note: je fais les 6 licences en montrant les cartons des licences
 <!-- .slide: data-background="#FFFFFF" -->
@@ -402,24 +405,31 @@ Note: je fais les 6 licences en montrant les cartons des licences
 
 ## Comment on assemble tout cela !
 
-http://etc.ch/LYeh
+http://etc.ch/qduD
 
-Si le lien ne fonctionne plus, il faut recréer un quizz dans un outil de quiz à partir des diapos ci-dessous
 
 <!-- .slide: data-background="#FFFFFF" -->
 
-Note: les diapos en dessous reprennent les logos
-Ouvrir la fenêtre de résultat et la diffuser après chaque question
+Note: 
+* Si le lien ne fonctionne plus, il faut recréer un quizz dans un outil de quiz à partir des diapos ci-dessous (et des réponses en note)
+* je pilote depuis ici : https://directpoll.com/c?XDVhEtmqr9K4lWmiTY9ivJe5kCfxZqP
+* pas d'image dans le sondage donc demander de mettre les deux pages cote à cote : partage d'écran et sondage
+* les diapos en dessous reprennent les logos
+* 1er écran : Ouvrir la fenêtre de résultat et la diffuser après chaque question : https://directpoll.com/r?XDbzPBd3ixYqg8ENWotXvtwnQVCrNY6cPrVi7n7o
+* 2e écran : les diapos ci dessous
+* 3e écran le mode speaker
+* ne pas afficher le sondage car je n'ai que 3 écrans !
 
 ----
 
 ## Question 1
 
 
-![](https://i.imgur.com/TWAUvCg.png)
+![](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/quizCC_1.png)
 
 La licence CC-BY sur un document 
-- [X] permet de le diffuser sans demander d'autorisation
+Note:- [X] permet de le diffuser sans demander d'autorisation
+- [X] oblige à en indiquer les auteurs
 - [X] permet d'en avoir un usage commercial
 - [X] permet de le modifier
 - [ ] oblige à ce que le document modifié ait la même licence
@@ -430,10 +440,11 @@ La licence CC-BY sur un document
 
 ## Question 2
 
-![CC-BY-NC-ND](https://i.imgur.com/6i9TMAh.png)
+![CC-BY-NC-ND](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/quizCC_2.png)
 
 La licence CC-BY-NC-ND sur un document 
-- [X] permet de le diffuser sans demander d'autorisation
+Note: - [X] permet de le diffuser sans demander d'autorisation
+- [X] oblige à en indiquer les auteurs
 - [ ] permet d'en avoir un usage commercial
 - [ ] permet de le modifier
 - [ ] oblige à ce que le document modifié ait la même licence
@@ -444,10 +455,11 @@ La licence CC-BY-NC-ND sur un document
 
 ## Question 3
 
-![CC-BY NC](https://i.imgur.com/feqlNCy.png)
+![CC-BY NC](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/quizCC_3.png)
 
 La licence CC-BY-NC sur un document 
-- [X] permet de le diffuser sans demander d'autorisation
+Note: - [X] permet de le diffuser sans demander d'autorisation
+- [X] oblige à en indiquer les auteurs
 - [ ] permet d'en avoir un usage commercial
 - [X] permet de le modifier
 - [ ] oblige à ce que le document modifié ait la même licence
@@ -458,10 +470,11 @@ La licence CC-BY-NC sur un document
 
 ## Question 4
 
-![CC BY SA](https://i.imgur.com/vCG4WWV.png)
+![CC BY SA](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/quizCC_4.png)
 
 La licence CC-BY-SA sur un document 
-- [X] permet de le diffuser sans demander d'autorisation
+Note: - [X] permet de le diffuser sans demander d'autorisation
+- [X] oblige à en indiquer les auteurs
 - [X] permet d'en avoir un usage commercial
 - [X] permet de le modifier
 - [X] oblige à ce que le document modifié ait la même licence
@@ -472,10 +485,11 @@ La licence CC-BY-SA sur un document
 
 ## Question 5
 
-![CC BY-ND](https://i.imgur.com/aGNfiMP.png)
+![CC BY-ND](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/quizCC_5.png)
 
 La licence CC-BY-ND sur un document 
-- [X] permet de le diffuser sans demander d'autorisation
+Note: - [X] permet de le diffuser sans demander d'autorisation
+- [X] oblige à en indiquer les auteurs
 - [X] permet d'en avoir un usage commercial
 - [ ] permet de le modifier
 - [ ] oblige à ce que le document modifié ait la même licence
@@ -486,10 +500,11 @@ La licence CC-BY-ND sur un document
 
 ## Question 6
 
-![CC-BY-NC-SA](https://i.imgur.com/4XHAiye.png)
+![CC-BY-NC-SA](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/quizCC_6.png)
 
 La licence CC-BY-NC-SA sur un document 
-- [X] permet de le diffuser sans demander d'autorisation
+Note: - [X] permet de le diffuser sans demander d'autorisation
+- [X] oblige à en indiquer les auteurs
 - [ ] permet d'en avoir un usage commercial
 - [X] permet de le modifier
 - [X] oblige à ce que le document modifié ait la même licence
@@ -501,7 +516,7 @@ La licence CC-BY-NC-SA sur un document
 
 ### Les 6 licences Creatives commons
 
-![Les différentes licences CC](https://i.imgur.com/kCkAcWo.png)
+![Les différentes licences CC](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/tableau_cc.png)
 
 
 <!-- .slide: data-background="#FFFFFF" -->
@@ -511,7 +526,7 @@ Note: les 6 licences classées dans la diapo du dessous
 ----
 
 ### Les 6 licences Creatives commons
-![Les différentes licences CC classées par ordre de liberté](https://i.imgur.com/ifyaSqK.png)
+![Les différentes licences CC classées par ordre de liberté](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/tableau_cc_droit.png =300x)
 
 <!-- .slide: data-background="#FFFFFF" -->
 
@@ -543,7 +558,7 @@ Avantage du logo : lien
 * [CC Search](https://search.creativecommons.org/)
 Note: rechercher en anglais souvent
 
-<!-- .slide: data-background="https://i.imgur.com/PmtVxad.png"  data-background-repeat="repeat" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_wikimeda_PmVxad.png"  data-background-repeat="repeat" -->
 </div>
 
 ---
@@ -556,7 +571,7 @@ Note: rechercher en anglais souvent
 * [Youtube](https://www.youtube.com/ "Youtube")
 Note: illustre souvent un sujet précis, et non pas photo d'illustration...
 
-<!-- .slide: data-background="https://i.imgur.com/6xgl69M.jpg"  data-background-repeat="repeat" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_outils_gene_6xgl69M.jpg"  data-background-repeat="repeat" -->
 </div>
 
 ---
@@ -568,7 +583,7 @@ Note: illustre souvent un sujet précis, et non pas photo d'illustration...
 * [Unplash](https://unsplash.com/ "Unplash")
 * [Focastock](https://focastock.com/ "Focastock")
 
-<!-- .slide: data-background="https://i.imgur.com/a9pIiTf.jpg"  data-background-repeat="repeat" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_banque_image_DP_a9pIiTf.jpg"  data-background-repeat="repeat" -->
 </div>
 
 ---
@@ -581,7 +596,7 @@ Note: illustre souvent un sujet précis, et non pas photo d'illustration...
 
 Note: documents patrimoniaux
 
-<!-- .slide: data-background="https://i.imgur.com/7cRXJor.jpg"  data-background-repeat="repeat" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_domaine_public_7cRXJor.jpg"  data-background-repeat="repeat" -->
 </div>
 
 ---
